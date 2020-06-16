@@ -5,7 +5,7 @@
 	Tugas akhir ini saya kerjakan untuk memenuhi tugas mata kuliah “Sistem Digital”. Tugas tersebut merupakan final project untuk membuat sebuah program yaitu “Kalkulator BCD Decoder” dengan menggunakan bahasa c sebagai penyelesaiannya. Decoder adalah suatu rangkaian atau piranti yang mendeteksi kehadiran dari suatu keadaan atau kondisi input yang unik dan menghasilkan suatu keluaran yang unik untuk kondisi ini. Sedangkan Decoder BCD atau Binary Coded Decimal yaitu penerjemah bilangan biner ke bilangan desimal. Setiap keadaan dari empat input yang telah terdeteksi dan output menghasilkan sebuah logika tinggi pada satu jalur dari sepuluh jalur yang bersesuaian untuk kondisi input.
 </p>
 
-<h2>Fitur Program Kalkulator BCD Decoder</h2?
+<h2>Fitur Program Kalkulator BCD Decoder</h2>
 <p>
   <li>Penjumlahan</li>
   <li>Pengurangan</li>
