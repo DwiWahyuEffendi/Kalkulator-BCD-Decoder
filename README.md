@@ -1,4 +1,4 @@
-<h1>Laporan Final Project Mata Kuliah Sistem Digital (Kalkulator BCD Decoder</h1>
+<h1>Laporan Final Project Mata Kuliah Sistem Digital (Kalkulator BCD Decoder)</h1>
 
 <h2>Latar Belakang</h2>
 <p>
